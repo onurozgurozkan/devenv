@@ -1,0 +1,43 @@
+set nocompatible
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'gmarik/Vundle.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'majutsushi/tagbar'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-haml'
+Plugin 'tpope/vim-rails'
+Plugin 'tpope/vim-fugitive'
+Plugin 'vim-ruby/vim-ruby'
+Plugin 'tpope/vim-endwise'
+Plugin 'plasticboy/vim-markdown'
+
+call vundle#end()
+filetype plugin indent on
+
+syntax on
+
+set ruler   " show the curser position all the time
+
+" Softtabs, 2 spaces
+set ts=2 sts=2 sw=2 expandtab
+
+" Encoding
+set encoding=utf-8
+set fileencoding=utf-8
+
+set number                    " show line number
+
+set cc=120
+hi ColorColumn ctermbg=lightblue guibg=lightblue
+
+imap ii <ESC>
+
+map <C-n> :NERDTreeToggle<CR>
+
+autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
+autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+autocmd FileType css set omnifunc=csscomplete#CompleteCSS
