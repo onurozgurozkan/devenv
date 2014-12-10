@@ -1,0 +1,13 @@
+https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+https://www.hipchat.com/downloads/latest/mac
+http://www.iterm2.com/downloads/stable/iTerm2_v2_0.zip
+https://dl.bintray.com/mitchellh/vagrant/vagrant_1.6.5.dmg
+https://github.com/lanayotech/vagrant-manager/releases/download/2.1.2/vagrant-manager-2.1.2.dmg
+http://download.virtualbox.org/virtualbox/4.3.20/VirtualBox-4.3.20-96996-OSX.dmg
+https://get.videolan.org/vlc/2.1.5/macosx/vlc-2.1.5.dmg
+http://download-new.utorrent.com/endpoint/utmac/os/osx/track/stable/
+https://github.com/fitztrev/shuttle/releases/download/1.2.2/Shuttle.zip
+https://www.keepassx.org/dev/attachments/download/72/KeePassX-2.0-alpha6.dmg
+https://cachefly.alfredapp.com/Alfred_2.5.1_308.zip
+https://dl.google.com/drive/installgoogledrive.dmg
+https://www.dropbox.com/download?plat=mac&full=1
