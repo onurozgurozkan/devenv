@@ -12,3 +12,4 @@ https://cachefly.alfredapp.com/Alfred_2.5.1_308.zip
 https://dl.google.com/drive/installgoogledrive.dmg
 https://www.dropbox.com/download?plat=mac&full=1
 https://www.spotify.com/tr/download/mac/
+http://download.techsmith.com/camtasiamac/enu/Camtasia.dmg
